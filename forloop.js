@@ -91,11 +91,12 @@ catch(error) {
 finally {
     console.log("Cleanup code");
 } */
-
+ 
 // HOISTING 
 /* console.log(y);
 var y = 69;
 console.log(y); */
+
 // HOISTING WITh FUNCTIONS
 hello();
 function hello()
